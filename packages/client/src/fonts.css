@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Magic';
+    src: url(./fonts/magic.ttf) format('ttf');
+  }
+
+@font-face {
+    font-family: 'PixelMix';
+    src: url(./fonts/pixelmix.ttf) format('ttf');
+ }
